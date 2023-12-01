@@ -1,4 +1,4 @@
-class hello.py
+class hello()
 {
         public static void main()  #from dev1
         {
